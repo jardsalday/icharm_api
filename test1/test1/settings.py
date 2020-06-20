@@ -27,7 +27,7 @@ SECRET_KEY = 'fkzv+(rn_^lx($7f=u*jn7wdc63l76xkvxa5gm^^f3j#-4hr#!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.3','172.16.5.12','kimmy-pc.dynamic.batstateu','172.16.12.173','172.16.14.55','172.20.10.4','192.168.43.164','192.168.1.9','192.168.1.7','172.20.10.11','127.0.0.1','localhost','192.168.1.12']
+ALLOWED_HOSTS = ['192.168.1.3',"icharmapi.herokuapp.com",'172.16.5.12','kimmy-pc.dynamic.batstateu','172.16.12.173','172.16.14.55','172.20.10.4','192.168.43.164','192.168.1.9','192.168.1.7','172.20.10.11','127.0.0.1','localhost','192.168.1.12']
 
 
 # Application definition
